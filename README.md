@@ -1,1 +1,3 @@
-# aula-02
+# Alexandre Herbst
+# Guilherme Medeiros
+# Lucas Silva
